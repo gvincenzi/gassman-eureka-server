@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.gassman</groupId>
     <artifactId>gassman-eureka-server</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>gassman-eureka-server</name>
     <description>GasSMan Eureka Server</description>
     <packaging>jar</packaging>
