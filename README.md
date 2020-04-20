@@ -12,6 +12,16 @@ Technologies used in this module of the project:
 - Netflix Eureka Server
 - Maven
 
+## Installation
+### Start GasSMan - Eureka Server
+Per lanciare il modulo e il server Eureka, basterà lanciare un comando install in MAVEN e, dopo aver posizionato il jar dove più conviene nel vostro file system, potrete lanciare il comando :
+
+```
+java -jar gassman-eureka-server-1.0.0.jar
+```
+
+Secondo quanto configurato nel file di properties (application.yml) avrete un'interfaccia di Eureka Server all'indirizzo : http://localhost:8880
+
 ## Build Information
 **Travis Ci page** : [Click here to view build history](https://travis-ci.org/gvincenzi/gassman-eureka-server)
 
